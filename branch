@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+It is possible to create a branch for each/several commits. It is then possible to move between those branches and create new branches from them. It is in a way like a movable pointer to those commits. The master branch is the last commit made.
