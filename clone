@@ -1,1 +1,3 @@
 Explain what git clone does, in your own words
+
+Git clones copies exactly an existing repository into a new directory. This means that all branched in the original repositories will also be copied into the cloned repository. Once the clone is done, it is possible to use git fetch to update all tracking branches or git pull to merge the remote master branch into the current master branch. 
